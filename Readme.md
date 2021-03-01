@@ -17,3 +17,6 @@ _Este repo contiene un proyecto con bugs_
 * v-icon
 * v-btn
 * v-chip
+
+### Vuetify
+[Link](https://vuetifyjs.com/en/components/alerts/)
