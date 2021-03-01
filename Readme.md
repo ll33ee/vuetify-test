@@ -18,5 +18,6 @@ _Este repo contiene un proyecto con bugs_
 * v-btn
 * v-chip
 
-### Vuetify
-[Link](https://vuetifyjs.com/en/components/alerts/)
+### Links ayuda
+[Componentes Vuetify](https://vuetifyjs.com/en/components/alerts/)
+[Icons](https://material.io/resources/icons/?style=baseline)
